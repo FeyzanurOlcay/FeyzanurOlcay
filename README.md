@@ -1,16 +1,14 @@
-## Hi there 👋
+💫 Merhaba💫
+Ben Feyzanur. Ankara Hacı Bayram Veli Üniversitesi'nde Yönetim Bilişim Sistemleri bölümü öğrencisiyim. 
 
-<!--
-**FeyzanurOlcay/FeyzanurOlcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Derslerim kapsamında C#, ASP.NET ve web teknolojileri üzerinde çalışıyorum.  
+Bu süreç, bana temel programlama becerileri kazandırırken, yeni şeyler öğrenmek için motivasyon sağlıyor.
 
-Here are some ideas to get you started:
+💻 Teknolojiye olan ilgim her geçen gün artıyor ve farklı alanlarda deneyim kazanmayı hedefliyorum.  
+Öğrenmeye ve gelişmeye açık biriyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Burada öğrendiklerimi ve projelerimi paylaşmayı amaçlıyorum.  
+Geri bildirimlerinize her zaman açığım!
+
+**İletişim:**  
+📧 feyzanurolcay7@gmail.com
